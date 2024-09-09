@@ -1,2 +1,1 @@
-# ARIMA
-Use ARIMA model, Dickey-Fuller test and Granger causality test to analyze historical shipment of Hp
+In this python script, I used ARIMA model, Dickey-Fuller test and Granger causality test to analyze historical shipment records, I checked the features of the past five years' shipment and the object is to predict a similar trend (or forecast) that corresponds to this model
